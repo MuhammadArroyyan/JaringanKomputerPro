@@ -1,7 +1,7 @@
 # Projek Akhir Mata Kuliah Jaringan Komputer
 
 # Dosen Pengampu Mata Kuliah
-Feri Irawan 
+Feri Irawan, S.Kom., M.Kom
 
 # Anggota Kelompok
 1. Muhammad Arroyyan Hamel (2301020117)
