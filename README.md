@@ -1,4 +1,5 @@
 # Projek Akhir Mata Kuliah Jaringan Komputer
+Repositori ini digunakan untuk menyimpan semua hasil kerja dari pengerjaan projek akhir mata kuliah jaringan komputer (file cisco, laporan akhir, dokumentasi berupa foto dengan ekstensi png/jpg)
 
 # Dosen Pengampu Mata Kuliah
 Feri Irawan, S.Kom., M.Kom
@@ -10,4 +11,3 @@ Feri Irawan, S.Kom., M.Kom
 4. M. Febrian (2301020114)
 5. Meuthia Kayla Putri (2301020118)
 
-Repositori ini digunakan untuk menyimpan semua hasil kerja dari pengerjaan projek akhir mata kuliah jaringan komputer (file cisco, laporan akhir, dokumentasi berupa foto dengan ekstensi png/jpg)
